@@ -3,6 +3,9 @@ uuid = "041075b9-539b-404a-8668-168486a11cbf"
 authors = ["tom880245 <40041106s@gmail.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+Debugger = "31a5f54b-26ea-5ae9-a837-f05ce5417438"
+
 [compat]
 julia = "1.6.7"
 
